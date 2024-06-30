@@ -1,4 +1,4 @@
-![image](https://github.com/nhatnguyen2410/nhatnguyen2410/assets/81694723/a18d25d4-e798-4423-9c5d-31413e1bd587)<h1 align="center">Hi 👋, I'm Nhat Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Nhat Nguyen</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatnguyen2410&label=Profile%20views&color=0e75b6&style=flat" alt="nhatnguyen2410" /> </p>
